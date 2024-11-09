@@ -70,3 +70,4 @@ El script `Toxicidad.py` tiene las siguientes secciones:
 - Asegúrate de que el `Tokenizer` utilizado para entrenar el modelo es el mismo que se carga para hacer predicciones.
 - Los resultados dependen de la calidad de los datos de entrenamiento y del preprocesamiento realizado.
 - Dentro de la carpeta datatset se encuentra un zip con los archivos csv.
+- En cada carpeta se encuentra un archivo zip, deben ser descomprimidos para poder ocuparse.
