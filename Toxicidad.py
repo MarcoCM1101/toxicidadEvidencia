@@ -53,7 +53,7 @@ if __name__ == "__main__":
     print("Bienvenido al analizador de toxicidad.")
     while True:
         frase_usuario = input(
-            "Ingrese una frase para analizar su toxicidad (o escriba 'salir' para terminar): ")
+            "Ingrese una frase para analizar su toxicidad en inglés OBLIGATORIAMENTE(o escriba 'salir' para terminar): ")
         if frase_usuario.lower() == 'salir':
             print("Saliendo del programa.")
             break
